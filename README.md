@@ -1,4 +1,4 @@
-# Repo search
+# Public Repo Search
 
 A self-contained browser app for searching public GitHub repositories. It uses GitHub's repository search API. The HTML, CSS and JavaScript are all in `index.html`. Loading, error and no-results states each have their own message and style.
 
